@@ -12,7 +12,7 @@ const Welcome = () => {
         {/* Login button */}
         <View>
           <TouchableOpacity style={styles.loginButton}>
-            <Typo fontWeight={500}>Sign In</Typo>
+            <Typo fontWeight={500}>Sign Here</Typo>
           </TouchableOpacity>
         </View>
       </View>
